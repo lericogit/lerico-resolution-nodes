@@ -10,14 +10,11 @@
 !lerico_resolution_forge.py
 !lerico_resolution_forge_v2.py
 
-# Resolution Forge frontend and docs.
+# Resolution Forge frontend.
 !js/
 js/*
 !js/lerico_resolution_forge.js
 !js/lerico_resolution_forge_v2.js
-!js/docs/
-js/docs/*
-!js/docs/LericoResolutionForgeV2.md
 
 # Optional project metadata if added later.
 !README.md
