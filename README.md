@@ -8,6 +8,8 @@ Simple resolution helper nodes for ComfyUI.
 
 `Resolution Forge V2` is the recommended node.
 
+![Resolution Forge V2 preview](preview.jpg)
+
 It includes a custom HTML/CSS/JS interface, cleaner controls, live result previews where possible, common resolution presets, aspect-ratio tools, image-based sizing, exact sizing, output caps, and a customizable resolution string output.
 
 Use this node for new workflows.
