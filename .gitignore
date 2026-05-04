@@ -1,0 +1,25 @@
+# Ignore everything in this custom node package by default.
+*
+
+# Keep the ignore policy itself.
+!.gitignore
+
+# Resolution Forge backend.
+!__init__.py
+!resolution_forge_core.py
+!lerico_resolution_forge.py
+!lerico_resolution_forge_v2.py
+
+# Resolution Forge frontend and docs.
+!js/
+js/*
+!js/lerico_resolution_forge.js
+!js/lerico_resolution_forge_v2.js
+!js/docs/
+js/docs/*
+!js/docs/LericoResolutionForgeV2.md
+
+# Optional project metadata if added later.
+!README.md
+!LICENSE
+!LICENSE.md
